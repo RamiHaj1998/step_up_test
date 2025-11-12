@@ -1,0 +1,1 @@
+enum SvgPathType { asset, network }
